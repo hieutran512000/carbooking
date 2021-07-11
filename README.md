@@ -10,7 +10,7 @@ For User
 - Password: admin
 
 For Admin
-Open Your browser put inside browser “http://itec_final/admin/” or choose admin at footer
+Open Your browser put inside browser “http://itec_final/admin/” or choose admin login at footer
 - Username: admin
 - Password: admin
 
