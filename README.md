@@ -20,6 +20,6 @@ Give info about our team
 Forum page
 - When you login your user account -> click on your account name-> a list of functions appears ->
 choose post a terminal -> save -> then you can see it on forum page
-- has the function of finger rating, add stars
+- has the function of thumbs up thumbs down, add stars rating
 
 ![Capture](https://user-images.githubusercontent.com/81355730/125187312-38edb000-e259-11eb-9644-1d7a1fe1c2c7.PNG)
