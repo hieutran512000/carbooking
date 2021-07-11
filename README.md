@@ -6,8 +6,11 @@ Create Database "carbooking"
 db connect file itec_final\includes\config.php
 
 For User
+
 Login Details for user:
+
 Username : admin@gmail.com	
+
 Password: admin
 
 For Admin
