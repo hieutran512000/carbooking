@@ -6,10 +6,15 @@ Create Database "carbooking"
 db connect file itec_final\includes\config.php
 
 For User
+
 Username : admin@gmail.com	
+
 Password: admin
 
+
+
 For Admin
+
 Open Your browser put inside browser “http://itec_final/admin/” or choose admin at footer
 
 Username: admin
@@ -18,6 +23,7 @@ Password: admin
 
 
 About us page
+
 Give info about our team
 
 Forum page
