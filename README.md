@@ -1,4 +1,4 @@
-# car booking
+# Car booking
 Database Configuration
 
 Open phpmyadmin
