@@ -2,17 +2,17 @@
 Database Configuration
 
 Open phpmyadmin
-Create Database "carbooking"
-db connect file itec_final\includes\config.php
+- Create Database "carbooking"
+- db connect file itec_final\includes\config.php
 
 For User
--Username : admin@gmail.com	
--Password: admin
+- Username : admin@gmail.com	
+- Password: admin
 
 For Admin
 Open Your browser put inside browser “http://itec_final/admin/” or choose admin at footer
--Username: admin
--Password: admin
+- Username: admin
+- Password: admin
 
 Aboutus.php page
 Give info about our team
